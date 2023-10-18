@@ -1,1 +1,23 @@
 
+button{
+    width:60px;
+    height:30px;
+
+}
+input{
+    height:30px;
+}
+h1{
+    text-align: center;
+}
+.originalTodo{
+    /* border:2px solid red; */
+    /* display:flex; */
+    /* align-items: center; */
+    justify-content:center;
+    left:30vw;
+}
+.list{
+    display: flex;
+    flex-direction: column;
+}
